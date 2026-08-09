@@ -25,7 +25,7 @@ export default function BookingForm() {
     e.preventDefault();
 
     const lines = [
-      `Ciao! Vorrei prenotare da Unique Nail Spa.`,
+      `Ciao! Vorrei prenotare da Bloom Nail Bar.`,
       name && `Nome: ${name}`,
       phone && `Telefono: ${phone}`,
       `Servizio: ${service}`,
@@ -70,7 +70,7 @@ export default function BookingForm() {
             required
             value={phone}
             onChange={(e) => setPhone(e.target.value)}
-            placeholder="333 123 4567"
+            placeholder="347 123 4567"
           />
         </label>
       </div>

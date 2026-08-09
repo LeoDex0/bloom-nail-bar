@@ -11,7 +11,7 @@ export default function Footer() {
             <span className="grid h-8 w-8 place-items-center rounded-full bg-gradient-to-br from-blush via-lilac to-mint">
               <Sparkle className="h-4 w-4 text-white" />
             </span>
-            Unique Nail Spa
+            Bloom Nail Bar
           </div>
           <p className="mt-4 max-w-sm text-sm leading-relaxed text-ink-soft">
             Manicure, pedicure e nail art nel cuore di Rimini. Un salone
@@ -84,7 +84,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-ink/10 px-5 py-5 text-center text-xs text-ink-soft sm:px-8">
-        © {new Date().getFullYear()} Unique Nail Spa — {site.address}
+        © {new Date().getFullYear()} Bloom Nail Bar — {site.address}
       </div>
     </footer>
   );

@@ -69,7 +69,7 @@ export default function Hero() {
           </div>
 
           <p className="mt-6 text-sm text-ink-soft">
-            Via XX Settembre 1870, 73 — Rimini
+            {site.addressShort}
           </p>
         </motion.div>
 

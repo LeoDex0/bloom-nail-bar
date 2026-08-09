@@ -30,7 +30,7 @@ export default function Nav() {
           <span className="gloss grid h-9 w-9 place-items-center rounded-full bg-gradient-to-br from-blush via-lilac to-mint shadow-[0_4px_10px_rgba(58,44,54,0.25)]">
             <Sparkle className="h-4 w-4 text-white" strokeWidth={2.5} />
           </span>
-          Unique Nail Spa
+          Bloom Nail Bar
         </Link>
 
         <nav className="hidden items-center gap-8 md:flex">

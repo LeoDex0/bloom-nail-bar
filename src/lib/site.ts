@@ -1,23 +1,23 @@
 export const site = {
-  name: "Unique Nail Spa",
-  phoneDisplay: "333 106 0639",
-  whatsappNumber: "393331060639",
+  name: "Bloom Nail Bar",
+  phoneDisplay: "347 512 8036",
+  whatsappNumber: "393475128036",
   get whatsappLink() {
     return `https://wa.me/${this.whatsappNumber}`;
   },
   whatsappMessageDefault:
-    "Ciao! Vorrei prenotare un appuntamento da Unique Nail Spa.",
-  address: "Via XX Settembre 1870, 73, Rimini",
-  addressShort: "Via XX Settembre 1870, 73 — Rimini",
-  mapsQuery: "Via XX Settembre 1870, 73, Rimini",
+    "Ciao! Vorrei prenotare un appuntamento da Bloom Nail Bar.",
+  address: "Rimini, Italia",
+  addressShort: "Rimini, Italia",
+  mapsQuery: "Rimini, Italia",
   get mapsEmbedSrc() {
     return `https://www.google.com/maps?q=${encodeURIComponent(this.mapsQuery)}&output=embed`;
   },
   get mapsLink() {
     return `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(this.mapsQuery)}`;
   },
-  rating: 4.7,
-  reviewCount: 196,
+  rating: 4.8,
+  reviewCount: 142,
   hours: [
     { day: "Lunedì", time: "14:00 – 19:00" },
     { day: "Martedì – Venerdì", time: "9:30 – 19:30" },

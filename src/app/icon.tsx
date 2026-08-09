@@ -24,7 +24,7 @@ export default function Icon() {
             fontWeight: 700,
           }}
         >
-          U
+          B
         </div>
       </div>
     ),

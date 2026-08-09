@@ -21,9 +21,9 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Unique Nail Spa — Manicure, Pedicure e Nail Art a Rimini",
+  title: "Bloom Nail Bar — Manicure, Pedicure e Nail Art a Rimini",
   description:
-    "Unique Nail Spa: manicure, pedicure, semipermanente, ricostruzione e nail art su misura in Via XX Settembre a Rimini. Prenota in un messaggio su WhatsApp.",
+    "Bloom Nail Bar: manicure, pedicure, semipermanente, ricostruzione e nail art su misura a Rimini. Prenota in un messaggio su WhatsApp.",
 };
 
 export default function RootLayout({

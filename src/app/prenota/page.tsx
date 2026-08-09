@@ -5,9 +5,9 @@ import BookingForm from "@/components/BookingForm";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Prenota — Unique Nail Spa Rimini",
+  title: "Prenota — Bloom Nail Bar Rimini",
   description:
-    "Prenota il tuo appuntamento da Unique Nail Spa in Via XX Settembre 1870, 73, Rimini. Scrivici su WhatsApp o compila il modulo di richiesta.",
+    "Prenota il tuo appuntamento da Bloom Nail Bar a Rimini. Scrivici su WhatsApp o compila il modulo di richiesta.",
 };
 
 export default function PrenotaPage() {
@@ -90,7 +90,7 @@ export default function PrenotaPage() {
 
             <div className="overflow-hidden rounded-[2rem] border-2 border-ink/10 shadow-[0_10px_24px_rgba(58,44,54,0.08)]">
               <iframe
-                title="Mappa: Unique Nail Spa, Via XX Settembre 1870, 73, Rimini"
+                title="Mappa: Bloom Nail Bar, Rimini"
                 src={site.mapsEmbedSrc}
                 width="100%"
                 height="280"
