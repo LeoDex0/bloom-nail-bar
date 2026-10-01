@@ -84,7 +84,7 @@ export default function Footer() {
       </div>
 
       <div className="border-t border-ink/10 px-5 py-5 text-center text-xs text-ink-soft sm:px-8">
-        © {new Date().getFullYear()} Bloom Nail Bar — {site.address}
+        © {new Date().getFullYear()} Bloom Nail Bar — {site.address}{" · "}<a href="https://leodex.dev/it/" className="underline-offset-2 hover:underline">Sito realizzato da LeoDex</a>
       </div>
     </footer>
   );
