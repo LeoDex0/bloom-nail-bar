@@ -2,7 +2,9 @@
 
 Website for a nail salon.
 
-**Live:** https://bloom-nail-bar-zeta.vercel.app
+![Preview](.github/preview.jpg)
+
+**Live:** [bloom-nail-bar-zeta.vercel.app](https://bloom-nail-bar-zeta.vercel.app)
 
 ## Stack
 

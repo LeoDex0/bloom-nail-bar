@@ -36,7 +36,7 @@ export default function CtaBanner() {
             className="flex items-center gap-2 rounded-full border-2 border-cream/25 px-6 py-3.5 text-sm font-bold text-cream transition-colors hover:border-cream/60"
           >
             <MapPin className="h-4 w-4" />
-            {site.addressShort}
+            Come raggiungerci
           </a>
         </div>
       </ScrollReveal>

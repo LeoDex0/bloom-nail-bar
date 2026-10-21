@@ -67,10 +67,6 @@ export default function Hero() {
               <ArrowRight className="h-4 w-4" />
             </Link>
           </div>
-
-          <p className="mt-6 text-sm text-ink-soft">
-            {site.addressShort}
-          </p>
         </motion.div>
 
         <motion.div
