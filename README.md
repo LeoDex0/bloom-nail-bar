@@ -1,6 +1,6 @@
 # Bloom Nail Bar
 
-Website for a nail salon in Rimini, Italy.
+Website for a nail salon.
 
 **Live:** https://bloom-nail-bar-zeta.vercel.app
 
