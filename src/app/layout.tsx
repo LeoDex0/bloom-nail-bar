@@ -21,9 +21,9 @@ const nunito = Nunito({
 });
 
 export const metadata: Metadata = {
-  title: "Bloom Nail Bar — Manicure, Pedicure e Nail Art a Rimini",
+  title: "Bloom Nail Bar — Manicure, Pedicure e Nail Art",
   description:
-    "Bloom Nail Bar: manicure, pedicure, semipermanente, ricostruzione e nail art su misura a Rimini. Prenota in un messaggio su WhatsApp.",
+    "Bloom Nail Bar: manicure, pedicure, semipermanente, ricostruzione e nail art su misura. Prenota in un messaggio su WhatsApp.",
 };
 
 export default function RootLayout({

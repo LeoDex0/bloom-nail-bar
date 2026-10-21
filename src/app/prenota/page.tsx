@@ -5,9 +5,9 @@ import BookingForm from "@/components/BookingForm";
 import { site } from "@/lib/site";
 
 export const metadata: Metadata = {
-  title: "Prenota — Bloom Nail Bar Rimini",
+  title: "Prenota — Bloom Nail Bar",
   description:
-    "Prenota il tuo appuntamento da Bloom Nail Bar a Rimini. Scrivici su WhatsApp o compila il modulo di richiesta.",
+    "Prenota il tuo appuntamento da Bloom Nail Bar. Scrivici su WhatsApp o compila il modulo di richiesta.",
 };
 
 export default function PrenotaPage() {

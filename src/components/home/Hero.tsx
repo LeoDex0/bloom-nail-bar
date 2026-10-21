@@ -45,7 +45,7 @@ export default function Hero() {
 
           <p className="mt-6 max-w-lg text-base leading-relaxed text-ink-soft sm:text-lg">
             Manicure, pedicure, semipermanente e nail art su misura nel
-            cuore di Rimini. Scegli il colore, scrivici su WhatsApp: al
+            cuore della città. Scegli il colore, scrivici su WhatsApp: al
             resto pensiamo noi.
           </p>
 

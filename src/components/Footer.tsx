@@ -14,7 +14,7 @@ export default function Footer() {
             Bloom Nail Bar
           </div>
           <p className="mt-4 max-w-sm text-sm leading-relaxed text-ink-soft">
-            Manicure, pedicure e nail art nel cuore di Rimini. Un salone
+            Manicure, pedicure e nail art nel cuore della città. Un salone
             piccolo nei numeri, grande nella cura dei dettagli.
           </p>
           <div className="mt-4 flex items-center gap-1.5 text-sm font-semibold text-ink">

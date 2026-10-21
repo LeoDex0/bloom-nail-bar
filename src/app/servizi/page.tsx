@@ -5,9 +5,9 @@ import ServiceSection from "@/components/ServiceSection";
 import CtaBanner from "@/components/home/CtaBanner";
 
 export const metadata: Metadata = {
-  title: "Servizi e listino prezzi — Bloom Nail Bar Rimini",
+  title: "Servizi e listino prezzi — Bloom Nail Bar",
   description:
-    "Manicure, pedicure, nail art, semipermanente e ricostruzione unghie a Rimini. Scopri il listino prezzi di Bloom Nail Bar.",
+    "Manicure, pedicure, nail art, semipermanente e ricostruzione unghie. Scopri il listino prezzi di Bloom Nail Bar.",
 };
 
 export default function ServiziPage() {
